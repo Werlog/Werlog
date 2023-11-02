@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Werlog</h1>
-<h3 align="center">A minecraft java plugin developer</h3>
+<h3 align="center">A Minecraft Java plugin developer, Unity Game developer</h3>
 
 - 🌱 I’m currently learning **Git, Web Development**
 
