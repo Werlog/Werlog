@@ -1,5 +1,4 @@
-<h1 align="center">Hello, people of the world</h1>
-<h3 align="center">I like to code stuff</h3>
+<h1 align="center">I like to code stuff</h1>
 
 - 🔭 I’m currently working on [OpenGL Voxel Game](https://github.com/Werlog/OpenGLVoxelGame)
 
