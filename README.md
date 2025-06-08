@@ -1,6 +1,6 @@
 <h1 align="center">I like to code stuff</h1>
 
-- 🔭 I’m currently working on [OpenGL Voxel Game](https://github.com/Werlog/OpenGLVoxelGame)
+- 🔭 I’m currently working on [VoxelGame](https://github.com/Werlog/VoxelGame)
 
 - 🌱 I’m currently learning **C++, OpenGL**
 
